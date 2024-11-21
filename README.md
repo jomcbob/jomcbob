@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning java script
 - ⚡ Fun fact: I am taking TOP
-- I belong to the church of Jesus Christ of latter day saints
 
 
 
