@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning java script
 - ⚡ Fun fact: I am taking TOP
 - I belong to the church of Jesus Christ of latter day saints
-- Im glad Trump won
+
+
 
 <!---
 jomcbob/jomcbob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
