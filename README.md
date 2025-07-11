@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jomcbob
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning Javascript
 - ⚡ Fun fact: I am taking TOP
 
 
