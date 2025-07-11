@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jomcbob
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Javascript
-- ⚡ Fun fact: I am taking TOP -> [The Odin Project](https://www.theodinproject.com/)
+- ⚡ Fun fact: I am taking [The Odin Project](https://www.theodinproject.com/) course
 
 
 
